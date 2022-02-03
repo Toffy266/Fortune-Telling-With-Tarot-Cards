@@ -1,6 +1,6 @@
 # Final Project CP241 Data Structure
 
-Program Description & Preview (videos) : https://youtu.be/N0gi6UpHYdA
+Program Description & Preview (videos) : https://drive.google.com/file/d/11Q2sVeY6K5paV8ZpIW6v2UCG-F3xxnrt/view?usp=sharing
 
 สมาชิก:
 
